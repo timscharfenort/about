@@ -22,7 +22,7 @@ See "[Personas](personas.md)".
 
 ## Product planning is continuous
 
-See "[Planning](planning.md)".
+See "[Planning](planning.md)" and "[How we track issues](issue_tracking.md)"
 
 ## Release early, release often
 
